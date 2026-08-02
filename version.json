@@ -1,5 +1,5 @@
 {
-      "latest_version": "3.0.3",
-      "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v3.0.3/VLXD_Vendor_Finder_v3_0_3.rbz",
-      "notes": "Chon NCC truc tiep trong plugin (khong go tay, khong tu dong dien), dinh dang o Nha cung cap theo mau BS ID-SPEC (song ngu, khong ep uppercase, du sdt/email), the NCC thu gon mac dinh, va them nut dong bo gio hang len Google Sheet."
+      "latest_version": "3.0.4",
+      "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v3.0.4/VLXD_Vendor_Finder_v3_0_4.rbz",
+      "notes": "Fix cot Anh texture tren Google Sheet toan ra mau dac du vat lieu co texture that: khong con resize truc tiep tren image_rep song cua material, luon dung ban sao doc lap va tang do net anh thu nho."
 }
