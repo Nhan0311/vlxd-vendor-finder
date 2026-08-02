@@ -1,5 +1,5 @@
 {
-      "latest_version": "3.0.4",
-      "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v3.0.4/VLXD_Vendor_Finder_v3_0_4.rbz",
-      "notes": "Fix cot Anh texture tren Google Sheet toan ra mau dac du vat lieu co texture that: khong con resize truc tiep tren image_rep song cua material, luon dung ban sao doc lap va tang do net anh thu nho."
+        "latest_version": "3.0.5",
+        "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v3.0.5/VLXD_Vendor_Finder_v3_0_5.rbz",
+        "notes": "NCC ghi gia tri that (khong chi ghi chu), fix mat anh khi dong bo cap nhat, Excel/Sheet dung chung dinh dang, hop nhat pipeline texture + xuat file debug, fix co che kiem tra ban moi."
 }
