@@ -1,5 +1,5 @@
 {
-      "latest_version": "2.2.1",
-      "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v2.2.1/VLXD_Vendor_Finder_v2_2_1.rbz",
-      "notes": "Fix loi thieu anh vat lieu khi xuat Excel (sai ten material luc tra cuu)."
+      "latest_version": "3.0.0",
+      "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v3.0.0/VLXD_Vendor_Finder_v3_0_0.rbz",
+      "notes": "Them scan toan bo vat lieu (nested group/component), rename hang loat theo chuan BS ID-SPEC, thong ke dien tich/khu vuc/canh bao, va dong bo bang vat lieu len Google Sheet dung chung ca nhom."
 }
