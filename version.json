@@ -1,5 +1,5 @@
 {
-      "latest_version": "3.0.1",
-      "download_url": "https://haiktsduoihiennha.com/",
-      "notes": "Fix Khu vuc/tang bi ghi de boi dien tich, fix anh texture bi mau solid, va bo sung goi y NCC (qua ghi chu, kien truc su tu chon/dien) khi tao dong moi tren Google Sheet."
+      "latest_version": "3.0.3",
+      "download_url": "https://github.com/Nhan0311/vlxd-vendor-finder/releases/download/v3.0.3/VLXD_Vendor_Finder_v3_0_3.rbz",
+      "notes": "Chon NCC truc tiep trong plugin (khong go tay, khong tu dong dien), dinh dang o Nha cung cap theo mau BS ID-SPEC (song ngu, khong ep uppercase, du sdt/email), the NCC thu gon mac dinh, va them nut dong bo gio hang len Google Sheet."
 }
